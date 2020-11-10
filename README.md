@@ -3,7 +3,7 @@ More exercises to the course Programming language of Computer technician from Co
 
 ## Slide2
 <div style="text-align: center">
-    <img src="./images/slide2.jpg" height="500"/>
+    <img src="/images/Slide2.jpg" height="500"/>
 </div>
 
 ## Slide3
